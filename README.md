@@ -30,7 +30,7 @@ composer require "ping/swoole-task:dev-master"
 
 ### 使用方法
 
-安装完成之后，在项目的vendor/bin 目录下会有swoole-tssk.php这个脚本，此脚本就是swoole-task服务的管理脚本。
+安装完成之后，在项目的vendor/bin 目录下会有swoole-task.php这个脚本，此脚本就是swoole-task服务的管理脚本。
 
 以默认配置启动swoole-task服务    
 
